@@ -1,0 +1,10 @@
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\bin\Debug\Döviz Kuru.exe.config
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\bin\Debug\Döviz Kuru.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\bin\Debug\Döviz Kuru.pdb
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz_Kuru.Form1.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz_Kuru.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.exe
+C:\Users\bekoo\Desktop\DOSYA\C# Uygulama\Döviz Kuru\Döviz Kuru\obj\Debug\Döviz Kuru.pdb
